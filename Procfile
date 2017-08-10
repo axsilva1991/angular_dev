@@ -1,1 +1,2 @@
-web: node index.js
+web: npm install express --save
+web: npm start
